@@ -5,7 +5,7 @@
 
 - I’m currently studying at **Palestine Technical University - Kadoorie**
 
-- My email **nedalesrarAhmad@gmail.com**
+- My email **nedalesrarahmad@gmail.com**
 
 - Know about my experience [CV](https://drive.google.com/file/d/1EtReLA23Z7i5qT7Uv8xzlU-ptsNGW2cH/view?usp=sharing)
 
