@@ -7,7 +7,7 @@
 
 - My email **nedalesrarahmad@gmail.com**
 
-- Know about my experiences [CV](https://drive.google.com/file/d/1EtReLA23Z7i5qT7Uv8xzlU-ptsNGW2cH/view?usp=sharing)
+- Know about my experiences [Resume](https://drive.google.com/file/d/1yvA_n5iQ_nKF8NG-9j7lkSv1YLh0Zp6X/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
