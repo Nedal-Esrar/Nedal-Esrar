@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Nedal-Esrar%20Ahmad!%20%F0%9F%91%8B&fontSize=45)
+<p align="center">
+		<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+Nedal-Esrar+Ahmad.....">
+</p>
 
 ![ProfileView](https://komarev.com/ghpvc/?username=Nedal-Esrar&label=Profile%20views&color=blueviolet)
 ![committers.top badge](https://user-badge.committers.top/palestine_public/Nedal-Esrar.svg)
@@ -55,6 +57,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-5C2D91?style=for-the-badge)
+![SignalR](https://img.shields.io/badge/-SignalR-5C2D91?style=for-the-badge)
 
 
 <h2>Github Statistics 📈</h2>
@@ -74,4 +77,4 @@
     <img height=300 src="https://leetcode.card.workers.dev/Nedal-Esrar?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
   </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
+![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
