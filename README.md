@@ -72,7 +72,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 
-#### IDEs and Text Editors ✍️
+#### IDEs & Text Editors ✍️
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -85,21 +85,21 @@
 
 ### Github Statistics 📈
 <div align="center">
-	<img height=155.7 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nedal-Esrar&layout=compact&theme=radical&hide_border=true" />
+	<img height=155.7 src="https://github-readme-stats.vercel.app/api/top-langs?username=Nedal-Esrar&layout=compact&theme=dark&hide_border=true" />
     	&ensp;
-  	<img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nedal-Esrar&theme=radical&hide_border=true" />
-  	<img height=171 src="https://github-readme-stats.vercel.app/api?username=Nedal-Esrar&theme=radical&hide_border=true" />
+  	<img width=545 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nedal-Esrar&theme=dark&hide_border=true" />
+  	<img height=171 src="https://github-readme-stats.vercel.app/api?username=Nedal-Esrar&theme=dark&hide_border=true" />
     	&ensp;
-  	<img height=171 src="https://github-readme-streak-stats.herokuapp.com/?user=Nedal-Esrar&theme=radical&hide_border=true" />
+  	<img height=171 src="https://github-readme-streak-stats.herokuapp.com/?user=Nedal-Esrar&theme=dark&hide_border=true" />
 </div>
 
 <hr/>
 
-### Problem Solving and Competitive Programming Statistics 📈
+### Problem Solving & Competitive Programming Statistics 📈
 <div align="center">
-	<img height=300 src="https://codeforces-readme-stats.vercel.app/api/card?username=K0KUSEN&force_username=true&theme=nord&border_color=#FFF" />
+	<img height=300 src="https://codeforces-readme-stats.vercel.app/api/card?username=K0KUSEN&force_username=true&theme=dark&border_color=#FFF" />
       	&ensp;
-	<img height=300 src="https://leetcode.card.workers.dev/Nedal-Esrar?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
+	<img height=300 src="https://leetcode.card.workers.dev/Nedal-Esrar?theme=Dark&font=baloo&extension=activity&border_color=#FFF" />
 </div>
 
 <hr/>
