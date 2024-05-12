@@ -4,7 +4,7 @@
 
 ![ProfileView](https://komarev.com/ghpvc/?username=Nedal-Esrar&label=Profile%20views&color=blueviolet)
 [![committers.top badge](https://user-badge.committers.top/palestine/Nedal-Esrar.svg)](https://user-badge.committers.top/palestine/Nedal-Esrar)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nedal-Esrar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nedal-Esrar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 🎓 I’m currently studying at Palestine Technical University - Kadoorie <br />
 📄 Know about my experiences **<a href="https://docs.google.com/document/d/1h5Ns32ZC-zQXZbBvYFKVzAolik3elHWmk8LF9GVHJVk/edit?usp=sharing" target="_blank">Resume</a>**. <br />
